@@ -61,7 +61,7 @@ class _HomeScreenState extends State<HomeScreen> with TickerProviderStateMixin {
             ),
             SizedBox(
               height: 40,
-              width: MediaQuery.of(context).size.width*0.40,
+              width: MediaQuery.of(context).size.width*0.45,
               child: const Row(
                 mainAxisAlignment: MainAxisAlignment.end,
                 children: [
@@ -75,7 +75,7 @@ class _HomeScreenState extends State<HomeScreen> with TickerProviderStateMixin {
                   SizedBox(width: 10,)
                 ],
               ),
-            )
+            ),
           ],
         ),
       ),
