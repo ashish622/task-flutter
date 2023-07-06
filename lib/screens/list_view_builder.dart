@@ -108,7 +108,7 @@ class _ListViewBuilderState extends State<ListViewBuilder> {
                       mainAxisAlignment: MainAxisAlignment.center,
                       children: [
                         Text('34563',style: TextStyle(fontSize: 16, color: Colors.red),),
-                        Text('35453',style: TextStyle(fontSize: 10, color: Colors.white),),
+                        Text('35453.78 USDT',style: TextStyle(fontSize: 10, color: Colors.white),),
                       ],
                     ),
                     Container(
@@ -165,7 +165,7 @@ class _ListViewBuilderState extends State<ListViewBuilder> {
                       mainAxisAlignment: MainAxisAlignment.center,
                       children: [
                         Text('36765',style: TextStyle(fontSize: 16, color: Colors.green),),
-                        Text('35453',style: TextStyle(fontSize: 12, color: Colors.white),),
+                        Text('35453.78 USDT',style: TextStyle(fontSize: 10, color: Colors.white),),
                       ],
                     ),
                     Container(
@@ -278,7 +278,7 @@ class _ListViewBuilderState extends State<ListViewBuilder> {
                       mainAxisAlignment: MainAxisAlignment.center,
                       children: [
                         Text('36765',style: TextStyle(fontSize: 16, color: Colors.green),),
-                        Text('35453',style: TextStyle(fontSize: 12, color: Colors.white),),
+                        Text('35453.78 USDT',style: TextStyle(fontSize: 10, color: Colors.white),),
                       ],
                     ),
                     Container(
@@ -335,7 +335,7 @@ class _ListViewBuilderState extends State<ListViewBuilder> {
                       mainAxisAlignment: MainAxisAlignment.center,
                       children: [
                         Text('36765',style: TextStyle(fontSize: 16, color: Colors.green),),
-                        Text('35453',style: TextStyle(fontSize: 12, color: Colors.white),),
+                        Text('35453.78 USDT',style: TextStyle(fontSize: 10, color: Colors.white),),
                       ],
                     ),
                     Container(
